@@ -39,8 +39,8 @@ a{
     margin-right: 5px;
 }
 .conteiner-principal{
-    background-image: url('/img/capa.jpg');
-    background: linear-gradient(rgba(0,0,0,.80),rgba(0,0,0,.80)100%),  url('/img/capa.jpg') ;
+    background-image: url('../img/capa.jpg');
+    background: linear-gradient(rgba(0,0,0,.80),rgba(0,0,0,.80)100%),  url('../img/capa.jpg') ;
     display: flex;
     align-items: flex-start;
     justify-content: center;
